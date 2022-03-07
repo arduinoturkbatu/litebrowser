@@ -6,7 +6,7 @@ Lite Browser. A browser created for simple browsing. Made in Turkey. Works on Wi
 - [x] Web browsing with Chromium technology. (It means you can surf on internet with Chrome/Chromium/Brave/Avast Browser fast)
 - [x] Simple
 - [x] .NET Framework 4.7.2
-- [ ] Don't have excentions
+- [ ] Don't have extentions
 - [ ] Don't have tabs with icons.
 - [ ] Don't have a settings panel.
 
