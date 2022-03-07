@@ -1,0 +1,49 @@
+[0307/191827.404:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/220612.002:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/220615.210:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/220620.620:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/220627.396:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221048.301:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221116.614:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221133.568:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221144.475:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221144.510:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0307/221145.616:INFO:CONSOLE(3327)] "A preload for 'https://github.com/webgl-globe/data/data.json' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute.", source: https://github.githubassets.com/assets/webgl-globe-798d91bb.js (3327)
+[0307/221148.673:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221148.728:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0307/221149.124:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0307/221149.124:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0307/221149.124:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0307/221149.125:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0307/221149.128:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221151.143:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221151.206:INFO:CONSOLE(2)] "The devicemotion events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features", source: https://api.funcaptcha.com/cdn/fc/js/b3931db6b9ae5c838421b3ac1f7a72e891a04a56/standard/funcaptcha_api.js (2)
+[0307/221151.209:INFO:CONSOLE(2)] "The deviceorientation events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features", source: https://api.funcaptcha.com/cdn/fc/js/b3931db6b9ae5c838421b3ac1f7a72e891a04a56/standard/funcaptcha_api.js (2)
+[0307/221216.520:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221220.189:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221223.757:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221228.348:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221247.068:ERROR:gpu_init.cc(454)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0307/221400.199:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221423.508:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221441.856:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 30064771073 [7,1] will be ignored
+[0307/221457.521:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221457.819:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 47244640260 [11,4] will be ignored
+[0307/221505.669:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 51539607556 [12,4] will be ignored
+[0307/221518.648:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 64424509444 [15,4] will be ignored
+[0307/221519.675:WARNING:browser_info.cc(301)] Returning a speculative frame for 73014444037 [17,5]
+[0307/221519.935:WARNING:browser_info.cc(301)] Returning a speculative frame for 73014444037 [17,5]
+[0307/221519.983:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0307/221520.356:INFO:CONSOLE(4305)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/d8ff51a7/jsbin/desktop_polymer.vflset/desktop_polymer.js (4305)
+[0307/221523.369:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 68719476747 [16,11] will be ignored
+[0307/221523.370:WARNING:frame_impl.cc(423)] OnDidFinishLoad sent to detached frame 68719476747 [16,11] will be ignored
+[0307/221523.370:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 68719476747 [16,11] will be ignored
+[0307/221524.512:INFO:CONSOLE(0)] "The resource https://r7---sn-u0g3uxax3-5tul.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=Wc4JUR5Ph-Y&list=PLqJBxKZBv7bO1M7gJnoJQQcsjp6ofQbTr (0)
+[0307/221524.512:INFO:CONSOLE(0)] "The resource https://r7---sn-u0g3uxax3-5tul.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=Wc4JUR5Ph-Y&list=PLqJBxKZBv7bO1M7gJnoJQQcsjp6ofQbTr (0)
+[0307/221524.512:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=Wc4JUR5Ph-Y&list=PLqJBxKZBv7bO1M7gJnoJQQcsjp6ofQbTr (0)
+[0307/221538.869:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221555.674:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221642.874:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221732.267:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0307/221738.661:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
